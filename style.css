@@ -1,0 +1,41 @@
+
+
+
+.bg-container{
+    background-color: #00ffff;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    color: red;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 900;
+}
+.paragraph{
+    color: red;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 200;
+}
+.button{
+    border-radius: 5px;
+    border-width: 2px;
+    height: 36px;
+    width: 100px;
+    cursor: pointer;
+    background-color: rgb(85, 33, 173);
+    color: white;
+    border-color: darkred;
+}
+.new-quote{
+    background-color: white;
+    border-radius: 8px;
+    border-width: 2px;
+    padding: 20px;
+    margin-top: 20px;
+}
